@@ -27,8 +27,8 @@ A clean, responsive **toggle button (ON/OFF switch)** built using HTML, CSS, and
 ---
 
 ## 💡 Folder Structure
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
+└── README.md<br>
 
